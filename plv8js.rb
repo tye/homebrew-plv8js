@@ -4,7 +4,7 @@ class Plv8js < Formula
   homepage 'https://code.google.com/p/plv8js'
 
   url 'https://plv8js.googlecode.com/archive/5e428ab67663015c71b2b6783d039e185cfcdaea.zip'
-  sha1 '17076d3943c8d9ca34290223b44e52c759b69ebe'
+  sha1 '7fc829488199b57f6fcf6312a692846cc3385b5e'
   version '1.4.1'
 
   head 'https://code.google.com/p/plv8js.git'
